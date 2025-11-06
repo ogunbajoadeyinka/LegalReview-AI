@@ -40,5 +40,5 @@ This tool automates tasks like contract clause detection, risk flagging, and sum
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/legal-document-review-assistant.git
+git clone https://github.com/ogunbajoadeyinka/LegalReview-AI.git
 cd legal-document-review-assistant
